@@ -5,10 +5,17 @@ Swipe Through Latest News Headlines!
 
 
 
-Video Demo Loink Click Here:   
+> Video Demo Loink Click Here:   
 
 https://drive.google.com/file/d/17P7mkFJz1RtCzwa2oCLUMHGtS1akxiO4/view?usp=sharing
 
 
-PDF Report HEre : https://github.com/Evil-Omen69/Project-Report-.git
+> PDF Report HEre : 
+
+https://github.com/Evil-Omen69/Project-Report-.git
+
+
+> Assessments:
+
+
 
