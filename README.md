@@ -5,7 +5,7 @@ Swipe Through Latest News Headlines!
 
 
 
-> Video Demo Loink Click Here:   
+> Video Demo Link  Here:   
 
 https://drive.google.com/file/d/17P7mkFJz1RtCzwa2oCLUMHGtS1akxiO4/view?usp=sharing
 
